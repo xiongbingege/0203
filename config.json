@@ -1,7 +1,7 @@
 {
     "run_type":"server",
     "local_addr":"0.0.0.0",
-    "local_port":9023,
+    "local_port":9022,
     "remote_addr":"192.83.167.78",
     "remote_port":80,
     "password":[
